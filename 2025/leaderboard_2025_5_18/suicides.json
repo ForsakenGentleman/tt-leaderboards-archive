@@ -1,0 +1,513 @@
+{
+	"timestamp": "2025-05-04T23:59:50.018612+00:00",
+	"data": [
+		{
+			"playerId": "6148530",
+			"username": "Laika",
+			"stat": 2143
+		},
+		{
+			"playerId": "8899024",
+			"username": "PurpleSpaceBaboon",
+			"stat": 173
+		},
+		{
+			"playerId": "20691693",
+			"username": "thetankcrusher",
+			"stat": 153
+		},
+		{
+			"playerId": "20650231",
+			"username": "Grind",
+			"stat": 151
+		},
+		{
+			"playerId": "20581942",
+			"username": "_---THE-TITANK-ANIKILATOR",
+			"stat": 136
+		},
+		{
+			"playerId": "20712070",
+			"username": "VictoriousLollipop",
+			"stat": 116
+		},
+		{
+			"playerId": "20704313",
+			"username": "XxnoobxX",
+			"stat": 114
+		},
+		{
+			"playerId": "4916090",
+			"username": "Zys",
+			"stat": 110
+		},
+		{
+			"playerId": "20135735",
+			"username": "BNeymarJR",
+			"stat": 104
+		},
+		{
+			"playerId": "20643854",
+			"username": "milkers",
+			"stat": 87
+		},
+		{
+			"playerId": "16596741",
+			"username": "RawWarWarrior",
+			"stat": 87
+		},
+		{
+			"playerId": "4381511",
+			"username": "interpreneur",
+			"stat": 86
+		},
+		{
+			"playerId": "19768925",
+			"username": "Lil_May",
+			"stat": 85
+		},
+		{
+			"playerId": "9305740",
+			"username": "Nhyiraba90",
+			"stat": 84
+		},
+		{
+			"playerId": "20711073",
+			"username": "LoneDirtDesperado",
+			"stat": 83
+		},
+		{
+			"playerId": "20649075",
+			"username": "Helper",
+			"stat": 83
+		},
+		{
+			"playerId": "18108574",
+			"username": "ffgr",
+			"stat": 79
+		},
+		{
+			"playerId": "20711607",
+			"username": "LonesomeRockLegend",
+			"stat": 78
+		},
+		{
+			"playerId": "20358644",
+			"username": "Meryem_",
+			"stat": 78
+		},
+		{
+			"playerId": "20137524",
+			"username": "Qonca",
+			"stat": 77
+		},
+		{
+			"playerId": "20707327",
+			"username": "LoneChromeCarrot",
+			"stat": 76
+		},
+		{
+			"playerId": "20060899",
+			"username": "GrandCosmicAnt",
+			"stat": 73
+		},
+		{
+			"playerId": "20712581",
+			"username": "TwistedNanoTomahawk",
+			"stat": 72
+		},
+		{
+			"playerId": "2788716",
+			"username": "YD109",
+			"stat": 71
+		},
+		{
+			"playerId": "19566614",
+			"username": "BestAtTankTrouble",
+			"stat": 70
+		},
+		{
+			"playerId": "20710950",
+			"username": "benielcrak423",
+			"stat": 70
+		},
+		{
+			"playerId": "19691813",
+			"username": "Jhxjan",
+			"stat": 65
+		},
+		{
+			"playerId": "20637017",
+			"username": "SuperSolar",
+			"stat": 64
+		},
+		{
+			"playerId": "8779272",
+			"username": "io",
+			"stat": 63
+		},
+		{
+			"playerId": "20711632",
+			"username": "Radnom_DuuD",
+			"stat": 62
+		},
+		{
+			"playerId": "20706173",
+			"username": "FloppyDoubleBone",
+			"stat": 59
+		},
+		{
+			"playerId": "20650237",
+			"username": "Farm",
+			"stat": 58
+		},
+		{
+			"playerId": "20675885",
+			"username": "Radovancz",
+			"stat": 57
+		},
+		{
+			"playerId": "18985660",
+			"username": "volodymyr77",
+			"stat": 57
+		},
+		{
+			"playerId": "20711039",
+			"username": "GeneralElectric",
+			"stat": 54
+		},
+		{
+			"playerId": "20004968",
+			"username": "NeatBlastTomato",
+			"stat": 54
+		},
+		{
+			"playerId": "20260577",
+			"username": "HairyDoubleEagle",
+			"stat": 54
+		},
+		{
+			"playerId": "20710353",
+			"username": "bencetibortothgmailcom",
+			"stat": 54
+		},
+		{
+			"playerId": "20711046",
+			"username": "LoneEarthPirate",
+			"stat": 53
+		},
+		{
+			"playerId": "15017663",
+			"username": "ISU-152",
+			"stat": 52
+		},
+		{
+			"playerId": "20666777",
+			"username": "Invincible",
+			"stat": 51
+		},
+		{
+			"playerId": "20712279",
+			"username": "LoneDirtValkyrie",
+			"stat": 50
+		},
+		{
+			"playerId": "20711922",
+			"username": "LoneSoloWhale",
+			"stat": 49
+		},
+		{
+			"playerId": "19059382",
+			"username": "FantasticIronCabbage",
+			"stat": 49
+		},
+		{
+			"playerId": "20703625",
+			"username": "LightWarTerminator",
+			"stat": 49
+		},
+		{
+			"playerId": "20703730",
+			"username": "BoringDoubleHeart",
+			"stat": 48
+		},
+		{
+			"playerId": "20074937",
+			"username": "typeshhhhh",
+			"stat": 48
+		},
+		{
+			"playerId": "20710561",
+			"username": "WackyDirtNerd",
+			"stat": 47
+		},
+		{
+			"playerId": "20705650",
+			"username": "Elcogeabuelas07",
+			"stat": 47
+		},
+		{
+			"playerId": "20711348",
+			"username": "LoneExhaustVirus",
+			"stat": 47
+		},
+		{
+			"playerId": "17120874",
+			"username": "Kobi",
+			"stat": 46
+		},
+		{
+			"playerId": "20643345",
+			"username": "Musa_027",
+			"stat": 46
+		},
+		{
+			"playerId": "5216748",
+			"username": "RAMISHNEVERGIVEUP",
+			"stat": 44
+		},
+		{
+			"playerId": "16879398",
+			"username": "ImmortalCyborg",
+			"stat": 44
+		},
+		{
+			"playerId": "20705669",
+			"username": "Eldesgraciao",
+			"stat": 43
+		},
+		{
+			"playerId": "20708437",
+			"username": "LoneDeathTerminator",
+			"stat": 43
+		},
+		{
+			"playerId": "20712122",
+			"username": "LoneFlameBull",
+			"stat": 42
+		},
+		{
+			"playerId": "16347766",
+			"username": "dark-x-prime",
+			"stat": 41
+		},
+		{
+			"playerId": "20712801",
+			"username": "LoneFusionBanjo",
+			"stat": 41
+		},
+		{
+			"playerId": "19583686",
+			"username": "Raxlyr",
+			"stat": 41
+		},
+		{
+			"playerId": "20004967",
+			"username": "GoofyExhaustLauncher",
+			"stat": 41
+		},
+		{
+			"playerId": "8146384",
+			"username": "itachi",
+			"stat": 40
+		},
+		{
+			"playerId": "944643",
+			"username": "meemee",
+			"stat": 40
+		},
+		{
+			"playerId": "20703204",
+			"username": "hanii",
+			"stat": 39
+		},
+		{
+			"playerId": "20713263",
+			"username": "LoneFlameSquirrel",
+			"stat": 38
+		},
+		{
+			"playerId": "20637018",
+			"username": "SpiderSrax",
+			"stat": 37
+		},
+		{
+			"playerId": "4191643",
+			"username": "Etxrnity",
+			"stat": 37
+		},
+		{
+			"playerId": "15164705",
+			"username": "Glitter56371",
+			"stat": 37
+		},
+		{
+			"playerId": "6123238",
+			"username": "Toastation",
+			"stat": 37
+		},
+		{
+			"playerId": "13100394",
+			"username": "lovepandas",
+			"stat": 37
+		},
+		{
+			"playerId": "20137703",
+			"username": "FCMessi",
+			"stat": 37
+		},
+		{
+			"playerId": "20711038",
+			"username": "LoneDwarf",
+			"stat": 37
+		},
+		{
+			"playerId": "20713076",
+			"username": "LoneFuryPeach",
+			"stat": 36
+		},
+		{
+			"playerId": "8870546",
+			"username": "Bleed",
+			"stat": 36
+		},
+		{
+			"playerId": "8830881",
+			"username": "xem",
+			"stat": 35
+		},
+		{
+			"playerId": "4686507",
+			"username": "playboi",
+			"stat": 34
+		},
+		{
+			"playerId": "17893036",
+			"username": "beebeeeeee4",
+			"stat": 34
+		},
+		{
+			"playerId": "20710807",
+			"username": "LoneElectricAlien",
+			"stat": 34
+		},
+		{
+			"playerId": "13327781",
+			"username": "rickgrimes",
+			"stat": 34
+		},
+		{
+			"playerId": "20033275",
+			"username": "MMHV",
+			"stat": 33
+		},
+		{
+			"playerId": "20358581",
+			"username": "HeavyDirtHammer",
+			"stat": 33
+		},
+		{
+			"playerId": "20710808",
+			"username": "PerfectCosmicT-Rex",
+			"stat": 33
+		},
+		{
+			"playerId": "20710873",
+			"username": "LoneEarthGunner",
+			"stat": 32
+		},
+		{
+			"playerId": "20205399",
+			"username": "wenku-renlingbaiducom",
+			"stat": 32
+		},
+		{
+			"playerId": "20661358",
+			"username": "Kaiser",
+			"stat": 31
+		},
+		{
+			"playerId": "20710881",
+			"username": "SilentRubyPineapple",
+			"stat": 31
+		},
+		{
+			"playerId": "19187638",
+			"username": "HappyBlastSkull",
+			"stat": 31
+		},
+		{
+			"playerId": "20704013",
+			"username": "LoneAcidSpringroll",
+			"stat": 31
+		},
+		{
+			"playerId": "20712810",
+			"username": "SillyMetalBuzzSaw",
+			"stat": 30
+		},
+		{
+			"playerId": "20711132",
+			"username": "WittyWaterGun",
+			"stat": 30
+		},
+		{
+			"playerId": "20710732",
+			"username": "MadRobotSombrero",
+			"stat": 30
+		},
+		{
+			"playerId": "20643636",
+			"username": "milk",
+			"stat": 30
+		},
+		{
+			"playerId": "20682976",
+			"username": "LightFrostArrow",
+			"stat": 30
+		},
+		{
+			"playerId": "15269862",
+			"username": "ROGERBS1999",
+			"stat": 30
+		},
+		{
+			"playerId": "20269995",
+			"username": "Giffgaff224",
+			"stat": 30
+		},
+		{
+			"playerId": "17572840",
+			"username": "Theteamer",
+			"stat": 29
+		},
+		{
+			"playerId": "9465954",
+			"username": "RaiIer",
+			"stat": 29
+		},
+		{
+			"playerId": "1001669",
+			"username": "Mud",
+			"stat": 29
+		},
+		{
+			"playerId": "20710815",
+			"username": "LoneElectricFist",
+			"stat": 28
+		},
+		{
+			"playerId": "20680937",
+			"username": "_yy_",
+			"stat": 28
+		},
+		{
+			"playerId": "20712363",
+			"username": "nina",
+			"stat": 28
+		}
+	],
+	"year": 2025,
+	"month": 5,
+	"week": 18
+}
