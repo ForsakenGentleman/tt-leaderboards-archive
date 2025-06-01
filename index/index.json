@@ -1,7 +1,9 @@
 {
 	"2025": {
 		"yearly": false,
-		"monthly": [],
+		"monthly": [
+			5
+		],
 		"weekly": {
 			"5": [
 				19,
