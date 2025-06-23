@@ -1,0 +1,614 @@
+{
+	"timestamp": "2025-06-15T23:59:59.004917+00:00",
+	"data": [
+		{
+			"playerId": "6148530",
+			"username": "Laika",
+			"stat": 18604,
+			"lastSeen": "2025-06-15T23:59:54.333761+00:00"
+		},
+		{
+			"playerId": "4191643",
+			"username": "Etxrnity",
+			"stat": 1441,
+			"lastSeen": "2025-06-15T21:33:27.119662+00:00"
+		},
+		{
+			"playerId": "20788194",
+			"username": "MOEHKDERNM",
+			"stat": 1001,
+			"lastSeen": "2025-06-15T10:39:45.125988+00:00"
+		},
+		{
+			"playerId": "20845924",
+			"username": "qwertyqwerty124",
+			"stat": 897,
+			"lastSeen": "2025-06-15T02:55:18.331130+00:00"
+		},
+		{
+			"playerId": "18418846",
+			"username": "Blaze-X",
+			"stat": 849,
+			"lastSeen": "2025-06-15T05:59:27.366739+00:00"
+		},
+		{
+			"playerId": "18226906",
+			"username": "Galatasaray",
+			"stat": 595,
+			"lastSeen": "2025-06-15T21:03:54.125101+00:00"
+		},
+		{
+			"playerId": "3990108",
+			"username": "Mandilindors",
+			"stat": 553,
+			"lastSeen": "2025-06-15T21:20:18.118497+00:00"
+		},
+		{
+			"playerId": "12316356",
+			"username": "firekingPunch",
+			"stat": 528,
+			"lastSeen": "2025-06-13T19:18:36.069207+00:00"
+		},
+		{
+			"playerId": "20642916",
+			"username": "GOAT",
+			"stat": 445,
+			"lastSeen": "2025-06-15T21:32:54.122091+00:00"
+		},
+		{
+			"playerId": "17629927",
+			"username": "Beast",
+			"stat": 423,
+			"lastSeen": "2025-06-15T20:45:54.119861+00:00"
+		},
+		{
+			"playerId": "3961628",
+			"username": "Mishka",
+			"stat": 403,
+			"lastSeen": "2025-06-15T08:48:36.330996+00:00"
+		},
+		{
+			"playerId": "20759909",
+			"username": "oddfellow",
+			"stat": 399,
+			"lastSeen": "2025-06-15T07:35:36.332240+00:00"
+		},
+		{
+			"playerId": "8590474",
+			"username": "Novocaine",
+			"stat": 361,
+			"lastSeen": "2025-06-13T20:11:00.123670+00:00"
+		},
+		{
+			"playerId": "10523030",
+			"username": "DIMIG0D",
+			"stat": 348,
+			"lastSeen": "2025-06-15T21:27:27.124190+00:00"
+		},
+		{
+			"playerId": "3923647",
+			"username": "slayer",
+			"stat": 341,
+			"lastSeen": "2025-06-15T20:29:18.113697+00:00"
+		},
+		{
+			"playerId": "13773720",
+			"username": "Hafiz-Muhammad",
+			"stat": 336,
+			"lastSeen": "2025-06-15T18:36:18.123668+00:00"
+		},
+		{
+			"playerId": "10127129",
+			"username": "Squeeze5",
+			"stat": 334,
+			"lastSeen": "2025-06-15T23:08:27.120318+00:00"
+		},
+		{
+			"playerId": "20368291",
+			"username": "Krikey",
+			"stat": 331,
+			"lastSeen": "2025-06-15T17:43:54.117260+00:00"
+		},
+		{
+			"playerId": "20802396",
+			"username": "6ix9ine",
+			"stat": 329,
+			"lastSeen": "2025-06-15T14:08:54.124405+00:00"
+		},
+		{
+			"playerId": "17362783",
+			"username": "Enzizizin",
+			"stat": 315,
+			"lastSeen": "2025-06-15T17:44:45.117572+00:00"
+		},
+		{
+			"playerId": "550975",
+			"username": "suds",
+			"stat": 310,
+			"lastSeen": "2025-06-13T11:54:36.131923+00:00"
+		},
+		{
+			"playerId": "13327781",
+			"username": "rickgrimes",
+			"stat": 294,
+			"lastSeen": "2025-06-15T18:30:54.117457+00:00"
+		},
+		{
+			"playerId": "14892840",
+			"username": "L_Shy_P",
+			"stat": 287,
+			"lastSeen": "2025-06-15T06:16:27.371386+00:00"
+		},
+		{
+			"playerId": "20356654",
+			"username": "Darkshadow1233",
+			"stat": 281,
+			"lastSeen": "2025-06-15T18:29:18.114447+00:00"
+		},
+		{
+			"playerId": "16596741",
+			"username": "RawWarWarrior",
+			"stat": 276,
+			"lastSeen": "2025-06-15T20:34:27.116488+00:00"
+		},
+		{
+			"playerId": "20643345",
+			"username": "Musa_027",
+			"stat": 270,
+			"lastSeen": "2025-06-15T06:57:45.117364+00:00"
+		},
+		{
+			"playerId": "20788508",
+			"username": "LooneyDeluxeHorse",
+			"stat": 270,
+			"lastSeen": "2025-06-13T19:39:00.057938+00:00"
+		},
+		{
+			"playerId": "16347766",
+			"username": "dark-x-prime",
+			"stat": 265,
+			"lastSeen": "2025-06-15T22:29:27.119970+00:00"
+		},
+		{
+			"playerId": "20824355",
+			"username": "LoopyMagmaGorilla",
+			"stat": 263,
+			"lastSeen": "2025-06-13T20:28:18.150035+00:00"
+		},
+		{
+			"playerId": "3660774",
+			"username": "Sc4r",
+			"stat": 262,
+			"lastSeen": "2025-06-15T21:33:54.120495+00:00"
+		},
+		{
+			"playerId": "18108574",
+			"username": "ffgr",
+			"stat": 258,
+			"lastSeen": "2025-06-13T13:50:18.054202+00:00"
+		},
+		{
+			"playerId": "20299357",
+			"username": "HappyIcePunch",
+			"stat": 258,
+			"lastSeen": "2025-06-15T19:12:27.116559+00:00"
+		},
+		{
+			"playerId": "17089744",
+			"username": "kitkat14",
+			"stat": 239,
+			"lastSeen": "2025-06-15T18:11:09.122099+00:00"
+		},
+		{
+			"playerId": "19138057",
+			"username": "Supernova-135",
+			"stat": 236,
+			"lastSeen": "2025-06-15T04:34:45.364934+00:00"
+		},
+		{
+			"playerId": "19657105",
+			"username": "taolavuakind",
+			"stat": 235,
+			"lastSeen": "2025-06-15T04:34:27.365016+00:00"
+		},
+		{
+			"playerId": "20785332",
+			"username": "Fleece",
+			"stat": 235,
+			"lastSeen": "2025-06-13T19:35:09.062701+00:00"
+		},
+		{
+			"playerId": "19629779",
+			"username": "RainbowDash_9",
+			"stat": 232,
+			"lastSeen": "2025-06-13T12:54:00.061013+00:00"
+		},
+		{
+			"playerId": "20751234",
+			"username": "LonelyPhantomWombat",
+			"stat": 232,
+			"lastSeen": "2025-06-13T18:38:36.058947+00:00"
+		},
+		{
+			"playerId": "20234188",
+			"username": "khak",
+			"stat": 231,
+			"lastSeen": "2025-06-15T19:06:09.124871+00:00"
+		},
+		{
+			"playerId": "9857606",
+			"username": "Ira",
+			"stat": 231,
+			"lastSeen": "2025-06-15T21:05:27.111808+00:00"
+		},
+		{
+			"playerId": "14752951",
+			"username": "William14",
+			"stat": 225,
+			"lastSeen": "2025-06-13T18:22:54.061848+00:00"
+		},
+		{
+			"playerId": "17993161",
+			"username": "StinkyFartPants",
+			"stat": 219,
+			"lastSeen": "2025-06-15T23:59:54.333761+00:00"
+		},
+		{
+			"playerId": "4381511",
+			"username": "interpreneur",
+			"stat": 214,
+			"lastSeen": "2025-06-14T23:46:36.117184+00:00"
+		},
+		{
+			"playerId": "19657077",
+			"username": "coifftretrau",
+			"stat": 213,
+			"lastSeen": "2025-06-15T04:34:27.365016+00:00"
+		},
+		{
+			"playerId": "1873422",
+			"username": "Kerosene",
+			"stat": 200,
+			"lastSeen": "2025-06-15T22:04:18.114776+00:00"
+		},
+		{
+			"playerId": "19629780",
+			"username": "twighlightSparles",
+			"stat": 200,
+			"lastSeen": "2025-06-15T16:39:00.115481+00:00"
+		},
+		{
+			"playerId": "10529483",
+			"username": "Nationwide",
+			"stat": 199,
+			"lastSeen": "2025-06-15T21:01:09.119896+00:00"
+		},
+		{
+			"playerId": "16721568",
+			"username": "EpicParkourPro",
+			"stat": 195,
+			"lastSeen": "2025-06-15T11:50:36.161853+00:00"
+		},
+		{
+			"playerId": "19458546",
+			"username": "keraunoskiller",
+			"stat": 194,
+			"lastSeen": "2025-06-15T05:38:36.361483+00:00"
+		},
+		{
+			"playerId": "20842277",
+			"username": "LousyBrassCannon",
+			"stat": 191,
+			"lastSeen": "2025-06-13T11:36:45.328170+00:00"
+		},
+		{
+			"playerId": "19840920",
+			"username": "123killer786",
+			"stat": 177,
+			"lastSeen": "2025-06-13T12:30:18.065826+00:00"
+		},
+		{
+			"playerId": "19597264",
+			"username": "ICEAXE",
+			"stat": 172,
+			"lastSeen": "2025-06-15T21:26:18.116852+00:00"
+		},
+		{
+			"playerId": "20016396",
+			"username": "carnefici",
+			"stat": 172,
+			"lastSeen": "2025-06-15T23:07:27.119922+00:00"
+		},
+		{
+			"playerId": "12128559",
+			"username": "urdeadesa",
+			"stat": 168,
+			"lastSeen": "2025-06-15T18:45:54.118204+00:00"
+		},
+		{
+			"playerId": "20270104",
+			"username": "3w0n",
+			"stat": 168,
+			"lastSeen": "2025-06-15T17:14:18.118670+00:00"
+		},
+		{
+			"playerId": "2574833",
+			"username": "voloding",
+			"stat": 163,
+			"lastSeen": "2025-06-15T18:40:18.120589+00:00"
+		},
+		{
+			"playerId": "16736853",
+			"username": "SaucyReaper",
+			"stat": 162,
+			"lastSeen": "2025-06-15T04:59:54.125269+00:00"
+		},
+		{
+			"playerId": "19691813",
+			"username": "Jhxjan",
+			"stat": 161,
+			"lastSeen": "2025-06-15T21:43:27.117098+00:00"
+		},
+		{
+			"playerId": "19768925",
+			"username": "Lil_May",
+			"stat": 161,
+			"lastSeen": "2025-06-15T19:48:45.126059+00:00"
+		},
+		{
+			"playerId": "20691693",
+			"username": "Apex-Phantom",
+			"stat": 158,
+			"lastSeen": "2025-06-15T04:42:27.332301+00:00"
+		},
+		{
+			"playerId": "20838013",
+			"username": "ResistanceIsFutile",
+			"stat": 158,
+			"lastSeen": "2025-06-15T23:52:36.118053+00:00"
+		},
+		{
+			"playerId": "17629928",
+			"username": "_zenin_",
+			"stat": 157,
+			"lastSeen": "2025-06-15T15:00:54.117698+00:00"
+		},
+		{
+			"playerId": "18758912",
+			"username": "SharpNitroPelican",
+			"stat": 156,
+			"lastSeen": "2025-06-15T03:41:00.365758+00:00"
+		},
+		{
+			"playerId": "20797941",
+			"username": "YummyElectricStrike",
+			"stat": 154,
+			"lastSeen": "2025-06-13T15:43:45.051889+00:00"
+		},
+		{
+			"playerId": "20269995",
+			"username": "Giffgaff224",
+			"stat": 148,
+			"lastSeen": "2025-06-15T17:32:09.117116+00:00"
+		},
+		{
+			"playerId": "6144149",
+			"username": "Yohohoho",
+			"stat": 147,
+			"lastSeen": "2025-06-13T19:13:54.052549+00:00"
+		},
+		{
+			"playerId": "20799398",
+			"username": "muzammil",
+			"stat": 142,
+			"lastSeen": "2025-06-15T04:09:00.334951+00:00"
+		},
+		{
+			"playerId": "16281429",
+			"username": "TheGreyman",
+			"stat": 141,
+			"lastSeen": "2025-06-12T21:35:09.144940+00:00"
+		},
+		{
+			"playerId": "12745227",
+			"username": "Sir_",
+			"stat": 138,
+			"lastSeen": "2025-06-15T11:38:36.120740+00:00"
+		},
+		{
+			"playerId": "17202244",
+			"username": "HEROKILLUA99",
+			"stat": 137,
+			"lastSeen": "2025-06-13T18:07:09.058492+00:00"
+		},
+		{
+			"playerId": "20445155",
+			"username": "GLICH-BOY",
+			"stat": 137,
+			"lastSeen": "2025-06-15T22:25:54.116286+00:00"
+		},
+		{
+			"playerId": "20844800",
+			"username": "CrispyGothMushroom",
+			"stat": 137,
+			"lastSeen": "2025-06-13T20:34:27.065518+00:00"
+		},
+		{
+			"playerId": "16499473",
+			"username": "thekiller12",
+			"stat": 134,
+			"lastSeen": "2025-06-15T15:22:54.117443+00:00"
+		},
+		{
+			"playerId": "20799392",
+			"username": "eren",
+			"stat": 133,
+			"lastSeen": "2025-06-15T04:05:00.334762+00:00"
+		},
+		{
+			"playerId": "10502780",
+			"username": "00000",
+			"stat": 132,
+			"lastSeen": "2025-06-13T03:32:18.144688+00:00"
+		},
+		{
+			"playerId": "20859739",
+			"username": "LousyProT-Rex",
+			"stat": 130,
+			"lastSeen": "2025-06-15T17:15:00.113364+00:00"
+		},
+		{
+			"playerId": "1827272",
+			"username": "Nansin",
+			"stat": 126,
+			"lastSeen": "2025-06-15T19:03:36.117375+00:00"
+		},
+		{
+			"playerId": "20784814",
+			"username": "_tryhard_",
+			"stat": 123,
+			"lastSeen": "2025-06-14T23:30:18.161849+00:00"
+		},
+		{
+			"playerId": "8899024",
+			"username": "PurpleSpaceBaboon",
+			"stat": 123,
+			"lastSeen": "2025-06-15T05:00:00.117592+00:00"
+		},
+		{
+			"playerId": "13025142",
+			"username": "Rvg3l",
+			"stat": 119,
+			"lastSeen": "2025-06-15T21:09:27.112153+00:00"
+		},
+		{
+			"playerId": "1975096",
+			"username": "AL_B_SURE",
+			"stat": 119,
+			"lastSeen": "2025-06-15T02:43:54.195657+00:00"
+		},
+		{
+			"playerId": "20547490",
+			"username": "SerbianEmpire",
+			"stat": 119,
+			"lastSeen": "2025-06-15T20:36:36.117569+00:00"
+		},
+		{
+			"playerId": "20260577",
+			"username": "HairyDoubleEagle",
+			"stat": 118,
+			"lastSeen": "2025-06-15T15:19:00.118276+00:00"
+		},
+		{
+			"playerId": "19425584",
+			"username": "_Eddie_",
+			"stat": 117,
+			"lastSeen": "2025-06-15T22:34:00.114396+00:00"
+		},
+		{
+			"playerId": "12331664",
+			"username": "RedStrawBerry",
+			"stat": 116,
+			"lastSeen": "2025-06-15T22:34:00.114396+00:00"
+		},
+		{
+			"playerId": "20855162",
+			"username": "Qonca_2008",
+			"stat": 116,
+			"lastSeen": "2025-06-15T05:10:54.124996+00:00"
+		},
+		{
+			"playerId": "19683967",
+			"username": "FunnySnowZapper",
+			"stat": 113,
+			"lastSeen": "2025-06-15T03:14:45.145503+00:00"
+		},
+		{
+			"playerId": "20161033",
+			"username": "GreyBabyWombat",
+			"stat": 113,
+			"lastSeen": "2025-06-15T19:42:54.126871+00:00"
+		},
+		{
+			"playerId": "20833179",
+			"username": "LoopyShadowHammer",
+			"stat": 111,
+			"lastSeen": "2025-06-12T13:58:36.334058+00:00"
+		},
+		{
+			"playerId": "20644117",
+			"username": "Ash",
+			"stat": 110,
+			"lastSeen": "2025-06-15T17:08:09.117712+00:00"
+		},
+		{
+			"playerId": "20508670",
+			"username": "onehitwonder",
+			"stat": 109,
+			"lastSeen": "2025-06-15T02:59:45.150295+00:00"
+		},
+		{
+			"playerId": "20773449",
+			"username": "TroubledSewerGlue",
+			"stat": 109,
+			"lastSeen": "2025-06-13T14:41:36.155829+00:00"
+		},
+		{
+			"playerId": "20801587",
+			"username": "LooneyPhantomAnimal",
+			"stat": 109,
+			"lastSeen": "2025-06-15T22:23:00.119200+00:00"
+		},
+		{
+			"playerId": "2762134",
+			"username": "ZZ9_The_Destroyer",
+			"stat": 109,
+			"lastSeen": "2025-06-15T00:22:27.129505+00:00"
+		},
+		{
+			"playerId": "18928730",
+			"username": "intrinsic",
+			"stat": 107,
+			"lastSeen": "2025-06-13T20:21:54.133039+00:00"
+		},
+		{
+			"playerId": "19496050",
+			"username": "ELBRAVO69",
+			"stat": 105,
+			"lastSeen": "2025-06-12T21:33:54.149691+00:00"
+		},
+		{
+			"playerId": "20856830",
+			"username": "LousyNitroMouse",
+			"stat": 105,
+			"lastSeen": "2025-06-15T07:37:45.326775+00:00"
+		},
+		{
+			"playerId": "20849191",
+			"username": "PetrifiedWarPelican",
+			"stat": 104,
+			"lastSeen": "2025-06-12T00:33:54.131184+00:00"
+		},
+		{
+			"playerId": "19319642",
+			"username": "deadromenss",
+			"stat": 103,
+			"lastSeen": "2025-06-15T18:51:45.120163+00:00"
+		},
+		{
+			"playerId": "20850280",
+			"username": "LousyGoldBubble",
+			"stat": 103,
+			"lastSeen": "2025-06-13T09:54:36.061054+00:00"
+		},
+		{
+			"playerId": "4201869",
+			"username": "dvi9311",
+			"stat": 103,
+			"lastSeen": "2025-06-15T17:27:09.117377+00:00"
+		}
+	],
+	"year": 2025,
+	"month": 6,
+	"week": 24
+}
